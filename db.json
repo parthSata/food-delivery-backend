@@ -1,5 +1,14 @@
 {
-  "categories": [],
+  "categories": [
+    {
+      "id": "f86e5af0-4dbd-493e-9354-5e97e193d4f1",
+      "categoryName": "Hayes Mcintyre",
+      "description": "Odit nisi voluptatem",
+      "numberOfProducts": "244",
+      "status": "In Stock",
+      "imageUrl": "https://res.cloudinary.com/dwxhjomtn/image/upload/v1718425645/Categories/Mushroom_qyrd4o.png"
+    }
+  ],
   "products": [],
   "coupons": [],
   "restaurants": [],
